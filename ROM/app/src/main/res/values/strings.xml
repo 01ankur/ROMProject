@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ROM</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="facebook_app_id">1137619093013129</string>
+    <string name="fb_login_protocol_scheme">fbAPP_ID1137619093013129</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
